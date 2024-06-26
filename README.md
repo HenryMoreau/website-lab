@@ -1,4 +1,6 @@
 # website-lab
+[**Chinese Ver**](https://github.com/HenryMoreau/website-lab/blob/main/README_SC.md)
+
 The target of establishing this repository is to **help most beginners master the methods of building various types of websites** and **reduce their exposure to outdated or unprofessional knowledge on the internet**.
 
 In summary, the items provided by this warehouse have the following three characteristics:
